@@ -1,0 +1,20 @@
+{
+  "name": "demo_sequelize",
+  "version": "1.0.0",
+  "description": "\"# Demo_Sequelize\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vn51xkh/Demo_Sequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vn51xkh/Demo_Sequelize/issues"
+  },
+  "homepage": "https://github.com/vn51xkh/Demo_Sequelize#readme"
+}
